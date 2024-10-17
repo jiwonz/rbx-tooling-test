@@ -1,0 +1,14 @@
+name = "jiwonz/pesde_hello"
+version = "0.1.0"
+description = "This function prints hello, I just wanted to test somethings with pesde before migration"
+license = "MIT"
+authors = ["jiwonz"]
+includes = ["README.md", "bin.luau", "lib.luau"]
+
+[target]
+environment = "lune"
+lib = "lib.luau"
+bin = "bin.luau"
+
+[indices]
+default = "https://github.com/daimond113/pesde-index"
