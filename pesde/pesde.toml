@@ -4,6 +4,7 @@ description = "This function prints hello, I just wanted to test somethings with
 license = "MIT"
 authors = ["jiwonz"]
 includes = ["README.md", "bin.luau", "lib.luau"]
+repository = "https://github.com/jiwonz/rbx-tooling-test"
 
 [target]
 environment = "lune"
